@@ -1,0 +1,45 @@
+body {
+    color: #2e4a7e;
+    background: #b6a1e7;
+    align-content: center;
+    text-align: center;
+    font-family: fantasy;
+}
+.HeaderBox {
+    background: #b6a1e7;
+    height: 100px;
+    text-shadow: 0px 0px 5px lightgray;
+    box-shadow: 0px 0px 10px lightgray;
+    color: white;
+    text-align: center;
+    
+}
+p {
+    color: black;
+    text-align: center;
+    font-size: larger;
+    margin: 20px;
+}
+img {
+    height: 300px;
+    width: 300px;
+}
+.column {
+    float: left;
+    margin: 20px;
+    width: 23.1%;
+}
+.card {
+    box-shadow:0px 0px 25px 2px lightgray;
+    margin: 10px;
+    padding: 5px 10px;
+    background: #b6a1e7;
+    text-align: center;
+    align-items: center;
+}
+.panther{
+    box-shadow:0px 0px 25px 2px lightgray;
+    height: 600px;
+    width: 600px;
+    padding: 60px;
+}
