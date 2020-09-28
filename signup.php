@@ -37,7 +37,7 @@ require "includes/header.php"
                         </div>
                     </form>
                     <div class="text-center">
-                        Already have an account? <a href="login.html"> Sign-in</a>
+                        Already have an account? <a href="login.php"> Sign-in</a>
                     </div>
                 </div>
             </div>
