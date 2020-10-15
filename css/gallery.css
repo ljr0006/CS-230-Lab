@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+
+}
+
+h3{
+   color: rgb(32, 150, 218);
+}
+
+p{
+     color: grey;
+}
+
+img{
+    max-width: 220px;
+    height: 220px;
+    margin-top: 10px;
+}
+
+.gallery-container{
+   text-align: center;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+
+.card {
+    border-radius: 10px;
+    margin: 10px;
+    width: 20%;
+    max-width: 280px;
+    height: auto;
+    padding: 5px;
+    box-shadow: 0px 0px 10px lightgray;
+
+}
+.gallery-container a{
+    background-color: whitesmoke;
+    background-position: center;
+    background-size: cover;
+}
+
+.gallery-container a:hover{
+    opacity: 90%;
+    text-decoration-color: rgb(32, 150, 218);
+}
